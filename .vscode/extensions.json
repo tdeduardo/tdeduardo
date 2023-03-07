@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "formulahendry.iot-extension-pack"
+        "formulahendry.iot-extension-pack",
+        "ms-azuretools.vscode-logicapps"
     ]
 }
